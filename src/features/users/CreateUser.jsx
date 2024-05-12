@@ -22,7 +22,7 @@ function CreateUser() {
   if (usernamee)
     return (
       <Button onClick={handleCuntinuo} type="base">
-        {`Hey ${usernamee}, continuo ordering `}
+        {`Hey ${usernamee}, continue ordering `}
       </Button>
     );
 
